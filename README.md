@@ -24,21 +24,22 @@ The folder structure of this repo is as follows:
 
 ## data
 
-| Data file                                            | Detail                                         |
-|:-----------------------------------------------------|:-----------------------------------------------|
-| iseg.RData, isegT.RData, isel.RData, iselT.RData     | Simulation results for Settings I, II, III, IV |
-| isegb.RData, isegTb.RData, iselb.RData, iselTb.RData | Simulation results for binomial distribution   |
+| Data file                | Detail                                         |
+|:-------------------------|:-----------------------------------------------|
+| iseg.RData, isel.RData   | Simulation results for Settings I, II, III, IV |
+| isegb.RData, iselb.RData | Simulation results for binomial distribution   |
 
 ## sim
 
 R scripts to replicate simulation results in subsection 5.2 of the main text and Section S.2 of the Supplementary Material.
 
-| Data file | Detail                                                |
-|:----------|:------------------------------------------------------|
-| simg.R    | Simulation for global REM with Gaussian distributions |
-| siml.R    | Simulation for local REM with Gaussian distributions  |
-| simgb.R   | Simulation for global REM with binomial distributions |
-| simlb.R   | Simulation for local REM with binomial distributions  |
+| Data file  | Detail                                                |
+|:-----------|:------------------------------------------------------|
+| simg.R     | Simulation for global REM with Gaussian distributions |
+| siml.R     | Simulation for local REM with Gaussian distributions  |
+| simgb.R    | Simulation for global REM with binomial distributions |
+| simlb.R    | Simulation for local REM with binomial distributions  |
+| simVisua.R | R script to replicate Figures 1, 2, and 3             |
 
 ## Report Errors
 
