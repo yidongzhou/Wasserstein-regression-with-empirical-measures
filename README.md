@@ -52,6 +52,6 @@ entry-spacing="0">
 
 <div id="ref-imbensxu" class="csl-entry">
 
-Zhou, Y. and Müller, H.G., 2023. Wasserstein regression with empirical measures and density estimation for sparse data.
+Zhou, Y. and Müller, H.G., 2024. Wasserstein regression with empirical measures and density estimation for sparse data. Biometrics, (just-accepted), pp.1-12.
 
 </div>
